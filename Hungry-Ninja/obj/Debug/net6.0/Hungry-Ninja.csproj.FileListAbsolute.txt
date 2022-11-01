@@ -1,0 +1,15 @@
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Hungry-Ninja\bin\Debug\net6.0\Hungry-Ninja.exe
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Hungry-Ninja\bin\Debug\net6.0\Hungry-Ninja.deps.json
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Hungry-Ninja\bin\Debug\net6.0\Hungry-Ninja.runtimeconfig.json
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Hungry-Ninja\bin\Debug\net6.0\Hungry-Ninja.dll
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Hungry-Ninja\bin\Debug\net6.0\Hungry-Ninja.pdb
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Hungry-Ninja\obj\Debug\net6.0\Hungry-Ninja.csproj.AssemblyReference.cache
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Hungry-Ninja\obj\Debug\net6.0\Hungry-Ninja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Hungry-Ninja\obj\Debug\net6.0\Hungry-Ninja.AssemblyInfoInputs.cache
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Hungry-Ninja\obj\Debug\net6.0\Hungry-Ninja.AssemblyInfo.cs
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Hungry-Ninja\obj\Debug\net6.0\Hungry-Ninja.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Hungry-Ninja\obj\Debug\net6.0\Hungry-Ninja.dll
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Hungry-Ninja\obj\Debug\net6.0\refint\Hungry-Ninja.dll
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Hungry-Ninja\obj\Debug\net6.0\Hungry-Ninja.pdb
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Hungry-Ninja\obj\Debug\net6.0\Hungry-Ninja.genruntimeconfig.cache
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Hungry-Ninja\obj\Debug\net6.0\ref\Hungry-Ninja.dll
